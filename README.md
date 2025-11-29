@@ -13,19 +13,19 @@ The workflow followed a complete **data analytics lifecycle**:
 ---
 ## 📊 Dashboard Output
 
-**Execute DashBoard : **
+**Execute DashBoard :**
 
 ![Execute Dashboard](https://image2url.com/images/1764435325456-7d16f9c4-f67a-46b0-8fdc-598dd2bfdb7f.png)
 
-**Product Dashboard : **
+**Product Dashboard :**
 
 ![Product Dashboard](https://image2url.com/images/1764435417573-047899b7-50c5-4363-8fb2-13c3e78ab8c7.png)
 
-**Product Dashboard : **
+**Product Dashboard :**
 
 ![Customer Dashboard](https://image2url.com/images/1764435459600-55154df1-6e65-46d5-8c06-c8595a2ffd8a.png)
 
-**Dataset Realations : **
+**Dataset Realations :**
 
 ![Relationship Model image](https://image2url.com/images/1764435254981-cddab006-0084-4257-81b4-eed13b716f1e.png)
 
